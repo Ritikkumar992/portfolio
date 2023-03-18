@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Ritik Kumar Portfolio",
     type: "website",
-    url: "http://ritikkumar.com/",
+    url: "#",
   },
 };
 
